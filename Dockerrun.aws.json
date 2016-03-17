@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "ryanoflaherty/django-boilerplate:latest",
+    "Name": "remotehcs/django-dev:latest",
     "Update": "true"
   },
   "Ports": [
